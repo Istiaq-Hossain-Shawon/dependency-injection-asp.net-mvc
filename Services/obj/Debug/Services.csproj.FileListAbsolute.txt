@@ -1,0 +1,14 @@
+E:\Satya\DI\DI\Services\bin\Debug\Services.dll
+E:\Satya\DI\DI\Services\bin\Debug\Services.pdb
+E:\Satya\DI\DI\Services\bin\Debug\DAL.dll
+E:\Satya\DI\DI\Services\bin\Debug\DAL.pdb
+E:\Satya\DI\DI\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\Satya\DI\DI\Services\obj\Debug\Services.dll
+E:\Satya\DI\DI\Services\obj\Debug\Services.pdb
+C:\Users\ISTIAQ\Desktop\DI\DI\Services\bin\Debug\Services.dll
+C:\Users\ISTIAQ\Desktop\DI\DI\Services\bin\Debug\Services.pdb
+C:\Users\ISTIAQ\Desktop\DI\DI\Services\bin\Debug\DAL.dll
+C:\Users\ISTIAQ\Desktop\DI\DI\Services\bin\Debug\DAL.pdb
+C:\Users\ISTIAQ\Desktop\DI\DI\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\ISTIAQ\Desktop\DI\DI\Services\obj\Debug\Services.dll
+C:\Users\ISTIAQ\Desktop\DI\DI\Services\obj\Debug\Services.pdb

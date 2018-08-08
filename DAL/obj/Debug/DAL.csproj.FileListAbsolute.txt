@@ -1,0 +1,9 @@
+E:\Satya\DI\DI\DAL\bin\Debug\DAL.dll
+E:\Satya\DI\DI\DAL\bin\Debug\DAL.pdb
+E:\Satya\DI\DI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Satya\DI\DI\DAL\obj\Debug\DAL.dll
+E:\Satya\DI\DI\DAL\obj\Debug\DAL.pdb
+C:\Users\ISTIAQ\Desktop\DI\DI\DAL\bin\Debug\DAL.dll
+C:\Users\ISTIAQ\Desktop\DI\DI\DAL\bin\Debug\DAL.pdb
+C:\Users\ISTIAQ\Desktop\DI\DI\DAL\obj\Debug\DAL.dll
+C:\Users\ISTIAQ\Desktop\DI\DI\DAL\obj\Debug\DAL.pdb
